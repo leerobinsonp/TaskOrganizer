@@ -1,5 +1,7 @@
 # TaskOrganizer
 
+This is a task organiser. (Well it will be. This is a work in progress).
+
 Notes
 http://www.morgantechspace.com/2013/08/how-to-read-data-from-csv-file-in-c.html
 https://www.youtube.com/watch?v=3YBTVn1a4oM
