@@ -1,6 +1,6 @@
 # TaskOrganizer
 
-This is a task organiser. (Well it will be. This is a work in progress).
+This is a task organiser that will be written in Python. (Well it will be. This is a work in progress).
 
 Notes
 http://www.morgantechspace.com/2013/08/how-to-read-data-from-csv-file-in-c.html
